@@ -1,16 +1,26 @@
-## Hi there 👋
+﻿# C.K.DE. & ASSOCIATES Website
+## Chartered Accountant & IT Audit Firm
 
-<!--
-**mondsou/mondsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a professional website for C.K.DE. & ASSOCIATES, a Chartered Accountant & IT Audit Firm.
 
-Here are some ideas to get you started:
+### Features
+- Responsive design
+- Professional audit services
+- Team information
+- Contact forms
+- Modern UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome Icons
+- Google Fonts
+
+### Pages
+- Home (index.html)
+- About Us (about.html)
+- Services (services.html)
+
+### Deployment
+This website is ready for deployment to any static hosting service.
